@@ -1,0 +1,12 @@
+Help dummyarg
+Author dummyarg
+IsEmpty dummyarg
+create thisisareallylongsentence
+IsEmpty dummyarg
+sprint dummyarg
+find s
+print dummyarg
+depth dummyarg
+fprint dummyarg
+clear dummyarg
+exit dummyarg

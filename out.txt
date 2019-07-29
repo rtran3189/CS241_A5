@@ -1,0 +1,56 @@
+Command: Echoing line: help
+
+-----------------HELP-----------------
+The program will take a command from its interface input as the program is running.
+The program will print: 
+	 Command: 
+when it is ready for the next command. To enter the command just
+type one of the following commands: 
+
+	 Create <followed by the word> 
+		 Adds characters of that word into the binary tree.
+		 Example: Create averylongwordbutlimitedto50characters
+
+	 Author 
+		 Prints author information.
+
+	 Clear 
+		 Removes all elements of the tree
+
+	 Depth 
+		 RReturns the depth of the tree. Returns 0 if empty.
+
+	 Exit 
+		 Exits the program.
+
+	 Find <followed by the char to find> 
+		 Returns the location in the tree where that char can be found.
+		 Example: Found <char> at heights <instance 1>, <instance 2>, etc...
+		 Otherwise reurns "Char not found" if char is not in the tree.
+
+	 Help 
+		 Prints this help information.
+
+	 IsEmpty 
+		 Returns TRUE if there is nothing in the tree. Otherwise FALSE is returned.
+
+	 Print 
+		 Prints the tree in pre-order. 
+
+	 SPrint 
+		 Prints the tree to the screen. 
+
+	 FPrint
+		 Prints the tree to a file. The file name is 'TreeOutput.txt'.
+--------------------------------------
+
+Command: Echoing line: author
+
+
+/**********************************************/
+/*Name: Richard Tran                          */
+/*Course: CS241L Summer 2019                  */
+/*Date: July 22, 2019                         */
+/*Assignment: 5                               */
+/**********************************************/
+Command: 
